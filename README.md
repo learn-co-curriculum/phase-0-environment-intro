@@ -15,3 +15,5 @@ into. It is okay to install the programs over the course of a few days.
 
 If you encounter consistent issues while setting up your local environment, the alternative environment can
 be used temporarily so you can continue working through the beginning of this course.
+
+> **NOTE**: If you are using a Mac then you will work through the steps in the **MacOS Environment Setup** module and ignore the Windows set up. If you will be using a Windows-based PC then you can skip past the Mac set up and work through the steps in the **Windows Environment Setup** module.
